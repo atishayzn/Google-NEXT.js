@@ -1,4 +1,4 @@
-# Google - NEXT.js by Atishay
+# Google - NEXT.js
 
 Using Tailwind CSS & NEXT.JS!
 
